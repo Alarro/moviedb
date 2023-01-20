@@ -5,7 +5,7 @@ import React from 'react';
 const AlertMessage = () => (
   <div className='alert'>
     <Alert
-      message='У вас нет сети! Попробуйте подключиться заново'
+      message='Turn on your VPN, please. Realities of Russia ;)'
       type='error'
     />
   </div>
